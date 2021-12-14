@@ -1,2 +1,11 @@
-# example-2022
-This is a template for a group repository.
+# \[Group name\]
+
+**Group members:**
+- A
+- B
+- C
+
+This repository contains  
+1. Inaugural project. 
+2. Data project. We fetch data from **source x** on **y** and show that ...
+3. Model project. We model ...
