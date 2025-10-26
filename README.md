@@ -1,9 +1,7 @@
-# \[Group name\]
+# \[Andreas Samberg\]
 
 **Group members:**
-- A
-- B
-- C
+- Andreas Samberg
 
 This repository contains  
 1. Inaugural project. 
